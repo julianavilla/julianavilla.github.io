@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: "Juliana M. Villa"
+#title: "Juliana M. Villa"
 layout: splash
 permalink: /
 classes: wide
@@ -10,7 +10,7 @@ author_profile: false
 header:
   overlay_image: /assets/images/banner2.jpg
   overlay_filter: 0.3
-  caption: "Photo by Juliana Villa"
+  #caption: "Photo by Juliana Villa"
 ---
 
 
