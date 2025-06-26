@@ -2,19 +2,24 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "Juliana M. Villa"
 layout: splash
-author_profile: false
+permalink: /
 classes: wide
-teaser: /assets/images/banner2.jpg
+author_profile: false
+header:
+  overlay_image: /assets/images/banner2.jpg
+  overlay_filter: 0.3
+  caption: "Photo by Juliana Villa"
 ---
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="assets/images/photo_home.jpg" alt="home_image" style="width: 250px; max-width: 100%; border: none;">
 
-Hello and welcome to my website! This is Juliana, a Colombian biologist and ornithologist interested in understanding animal behavior, particularly in birds. Among the fascinating gamut of behaviors that birds can display, I am passionate about avian brood parasitism. Over the last years of my career, I have committed myself to study this behavior and learn about what is known of parasite birds that cheat by nature on other bird species.</p>
+Hello and welcome to my website! This is Juliana, a Colombian biologist and ornithologist interested in understanding animal behavior, particularly in birds. Among the fascinating gamut of behaviors that birds can display, I am passionate about avian brood parasitism. Over the last years of my career, I have committed myself to study this behavior and learn about what is known of parasite birds that cheat by nature on other bird species.
 
 My research interest is focused on:
-- Evolution of eggshell coloration
-- Host-parasite coevolution
-- Visual and color perception
+  - Evolution of eggshell coloration
+  - Host-parasite coevolution
+  - Visual and color perception
