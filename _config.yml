@@ -60,13 +60,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Juliana Villa"
+  avatar : "/assets/images/contact-photo.jpg"
+  bio    : "Feel free to reach!"
   links:
-    - label: "Website"
+    - label: "Email"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "jvilla8@gmu.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
