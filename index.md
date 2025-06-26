@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 ---
 
-[screenshot](assets/images/banner2.jpg)
+![screenshot](assets/images/banner2.jpg)
 
 
 Hello and welcome to my website! This is Juliana, a Colombian biologist and ornithologist interested in understanding animal behavior, particularly in birds. Among the fascinating gamut of behaviors that birds can display, I am passionate about avian brood parasitism. Over the last years of my career, I have committed myself to study this behavior and learn about what is known of parasite birds that cheat by nature on other bird species.
