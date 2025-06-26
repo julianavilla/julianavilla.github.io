@@ -16,7 +16,8 @@
 title: Juliana M. Villa
 layout: single
 classes: wide
-header: "/assets/images/banner2.jpg"
+feature_row:
+  - image_path: /assets/images/banner2.jpg
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
