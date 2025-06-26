@@ -7,6 +7,8 @@ author_profile: false
 classes: wide
 teaser: /assets/images/banner2.jpg
 ---
+
+
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="assets/images/photo_home.jpg" alt="home_image" style="width: 250px; max-width: 100%; border: none;">
 
