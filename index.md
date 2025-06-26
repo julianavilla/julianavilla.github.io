@@ -13,7 +13,7 @@ header:
   #caption: "Photo by Juliana Villa"
 ---
 <div>
-  <img style="display: block; margin: auto; float: right; width: 50%;" src="/assets/images/photo_home.jpg"/>
+  <img style="display: flex; margin: auto; float: right; width: 30%;" src="/assets/images/photo_home.jpg"/>
 </div>
 
 
