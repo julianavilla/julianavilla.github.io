@@ -1,5 +1,5 @@
 ---
-title: "How I got here"
+title: "Bio"
 permalink: /bio/
 header:
   overlay_image: /assets/images/banner2.jpg
