@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /contact/
+title: "Contact"
 ---
 
 #header: /assets/images/contact_image.png)
