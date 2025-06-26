@@ -2,6 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: splash
 permalink: /
 classes: wide
@@ -11,12 +12,11 @@ header:
   overlay_filter: 0.3
   #caption: "Photo by Juliana Villa"
 ---
+<div>
+  <img style="display: block; margin: auto; float: right; width: 50%;" src="/assets/images/photo_home.jpg"/>
+</div>
 
 
-<div style="display: flex; float: right; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="assets/images/photo_home.jpg" alt="home_image" style="width: 250px; max-width: 100%; border: none;">
-
-  
   Hello and welcome to my website! I'm Juliana, a Colombian biologist and ornithologist interested in understanding animal behavior — especially avian brood parasitism. 
   My research explores:
       - Evolution of eggshell coloration  
