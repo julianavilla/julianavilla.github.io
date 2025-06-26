@@ -4,7 +4,7 @@ permalink: /contact/
 header:
   overlay_image: /assets/images/banner2.jpg
   overlay_filter: 0.3
-
+author_profile: true
 ---
 
 #header: /assets/images/contact_image.png)
