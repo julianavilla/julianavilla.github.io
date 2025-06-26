@@ -15,17 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Juliana M. Villa
-layout: splash
 author_profile: false
 classes: wide
-header:
-  overlay_image: /assets/images/banner2.jpg
-  overlay_filter: 0.3  # optional: darkens image for better text contrast (0.0 to 1.0)
-  caption: "Photo by Juliana Villa"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
-search: true
 
 
 # Build settings
