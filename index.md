@@ -14,7 +14,7 @@ header:
 
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="assets/images/photo_home.jpg" alt="home_image" style="width: 250px; max-width: 100%; border: none;">
+  <img src="assets/images/photo_home.jpg" alt="home_image" style="width: 250px; max-width: 100%; border: none;float: right;">
 
     Hello and welcome to my website! I'm Juliana, a Colombian biologist and ornithologist interested in understanding animal behavior — especially avian brood parasitism. My research explores:
       - Evolution of eggshell coloration  
