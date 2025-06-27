@@ -10,6 +10,7 @@ header:
   overlay_image: /assets/images/banner2.jpg
   overlay_filter: 0.3
   #caption: "Photo by Juliana Villa"
+logo: ""
 ---
 <div>
   <img style="display: flex; margin: auto; float: right; width: 30%;" src="/assets/images/photo_home.jpg"/>
